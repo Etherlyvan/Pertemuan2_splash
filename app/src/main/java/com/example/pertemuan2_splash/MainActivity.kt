@@ -5,7 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import com.example.pertemuan2_splash.ui.theme.Pertemuan2_splashTheme
-import com.example.pertemuan2_splash.ui.LoginOneNotePreview
+import com.example.pertemuan2_splash.NavGraph
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Pertemuan2_splashTheme {
-                LoginOneNotePreview()
+                NavGraph()
             }
         }
     }

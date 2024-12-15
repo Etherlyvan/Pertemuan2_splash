@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439933666438",
+    "project_id": "app3todolist",
+    "storage_bucket": "app3todolist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439933666438:android:a9643b4e4f566ac12c3d07",
+        "android_client_info": {
+          "package_name": "com.example.app3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCww4mgXkzCaz76GXE1zLxcn4KuX0Viw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439933666438:android:e115649d0a05b1f02c3d07",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan2_splash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCww4mgXkzCaz76GXE1zLxcn4KuX0Viw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
